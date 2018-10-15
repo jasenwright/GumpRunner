@@ -14,6 +14,8 @@ public class FinishLineSpawner : MonoBehaviour {
         {
             Instantiate (fl, transform.position, transform.rotation);
             finishLineHasSpawned = true;
+
+            // This is a message from Thomas 
         }
 	}
 }
