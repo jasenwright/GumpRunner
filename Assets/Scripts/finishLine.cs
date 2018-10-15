@@ -20,4 +20,6 @@ public class finishLine : MonoBehaviour {
             rb2d.velocity = Vector2.zero;
         }
 	}
+
+    // Hello Thomas if you see this then it worked
 }
